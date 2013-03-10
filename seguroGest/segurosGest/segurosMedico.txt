@@ -1,0 +1,27 @@
+sgm001
+100
+10
+mutibanco
+pm001
+nenhuma
+34
+Jaquim
+Rua A 
+sgm002
+120
+9
+transf bancaria
+pm003
+osteoporose
+87
+Antonia
+Rua Y 
+sgm003
+125
+4
+cheque
+pm002
+parkinson
+65
+Jose
+Rua alfa

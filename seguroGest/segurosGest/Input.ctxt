@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=String\ lerString()
+comment0.text=\nMetodos\ de\ Classe\n\n
+comment1.target=int\ lerInt()
+comment2.target=double\ lerDouble()
+comment3.target=float\ lerFloat()
+comment4.target=boolean\ lerBoolean()
+comment5.target=short\ lerShort()
+numComments=6

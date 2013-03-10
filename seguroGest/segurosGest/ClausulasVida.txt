@@ -1,0 +1,28 @@
+sgv001
+Morte por Acidente
+Indeminização em caso de perda de vida do segurado
+0.7
+sgv002
+Morte por Acidente de Circulação
+Indeminização em caso de perda de vida do segurado por acidente de viação
+0.7
+sgv003
+Invalidez Total e Permanente
+Indeminização em caso de perda de capacidade de laborar
+0.2
+sgv004
+Invalidez Total e Permanente por Acidente
+Indeminização em caso de perda de capacidade de laborar por acidente
+0.3
+sgv005
+Invalidez Total e Permanente por Acidente de Circulação
+Indeminização em caso de perda de capacidade de laborar por acidente de circulação
+0.25
+sgv006
+Invalidez Absoluta e Definitiva
+Indeminização em caso de perda de capacidades defenitivamente
+0.4
+sgv007
+Doenças Graves
+Indeminização em caso de doença grave
+0.3

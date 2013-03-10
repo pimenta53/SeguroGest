@@ -1,0 +1,32 @@
+clss001
+Segunda Opinião Best Doctors
+Possibilidade de uma segunda opinão noutro médico.
+0.1
+clss002
+Extensão ao Estrangeiro
+Possibilidade de aceder a serviços fornecidos no estrangeiro.
+0.3
+clss003
+Medicina Preventiva
+Acesso a um vasto leque de exames de rastreio.
+0.05
+clss004
+Parto Normal, Cesariana e Interrupção Involuntária da Gravidez
+Acesso a condições de parto e aborto.
+0.1
+clss005
+Enternamento Hospitalar
+Possibilidade de internamento nas nossas clinicas.
+0.2
+clss006
+Ambulatório
+Possibilidade de permanecer nas nossas clinicas antes e depois de intervenções cirugicas.
+0.1
+clss007
+Pequena Cirurgia em Ambiente Hospitalar
+Serviço de pequenas cirugias feito em hospital.
+0.05
+clss008
+Estomatologia
+Serviço de estomatologia
+0.3

@@ -1,0 +1,45 @@
+sga001
+100
+10
+mutibanco
+pa001
+volvo
+ligeiro
+2
+10000
+sga002
+200
+30
+transf bancaria
+pa004
+mercedes
+ligeiro
+3
+20000
+sga003
+125
+4
+cheque
+pa001
+jeep
+todo terreno
+1
+15000
+sga005
+75
+11
+mutibanco
+pa002
+opel
+ligeiro
+10
+3000
+sga006
+100
+20
+transf bancaria
+pa004
+ford
+comercial
+1
+7000

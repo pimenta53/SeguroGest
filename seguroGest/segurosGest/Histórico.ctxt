@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=void\ Historico()
+comment1.params=ano\ n_cliente
+comment1.target=void\ NumClientes(Integer,\ Integer)
+comment2.params=ano
+comment2.target=int\ getHistorico(Integer)
+comment3.params=ano\ num
+comment3.target=void\ putHistorico(Integer,\ Integer)
+comment4.target=void\ somaHistorico()
+comment5.target=void\ subtraiHistorico()
+comment6.params=inicio\ fim
+comment6.target=int\ diferenca(Integer,\ Integer)
+comment7.target=int\ diferenca()
+numComments=8

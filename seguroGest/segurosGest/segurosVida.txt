@@ -1,0 +1,32 @@
+sgv001
+250
+10
+mutibanco
+pv001
+74
+Carlos
+Rua do carmo
+sgv002
+300
+9
+transf bancaria
+pv003
+20
+Catarina Miranda
+Rua das oliveiras
+sgv003
+125
+4
+cheque
+pv002
+45
+Jose Carlos Ribeiro
+Rua dos tremocos
+sgv004
+50
+4
+multibanco
+sgv004
+45
+Madalena da Silva
+Rua dos lencois

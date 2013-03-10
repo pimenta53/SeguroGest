@@ -1,0 +1,28 @@
+sgc001
+250
+10
+mutibanco
+pc001
+Rua do carmo
+100000
+sgc002
+400
+20
+transf bancaria
+pc003
+Rua das oliveiras
+150000
+sgc003
+100
+21
+cheque
+pc002
+Rua dos tremocos
+75000
+sgc004
+30
+20
+multibanco
+pc004
+Rua dos lencois
+3000

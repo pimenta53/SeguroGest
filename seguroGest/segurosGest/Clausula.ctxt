@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=ArrayList<Clausula>\ readFile(String)
+comment1.target=Clausula()
+comment10.params=desC
+comment10.target=void\ setDescricao(String)
+comment11.params=agv
+comment11.target=void\ setAgravamento(double)
+comment12.params=o
+comment12.target=boolean\ equals(Object)
+comment13.target=String\ toString()
+comment14.target=Clausula\ clone()
+comment2.params=codC\ nomeC\ des\ agrv
+comment2.target=Clausula(String,\ String,\ String,\ double)
+comment3.params=cl
+comment3.target=Clausula(Clausula)
+comment4.target=String\ getCod()
+comment5.target=String\ getNome()
+comment6.target=String\ getDescricao()
+comment7.target=double\ getAgravamento()
+comment8.params=codC
+comment8.target=void\ setCod(String)
+comment9.params=nomeC
+comment9.target=void\ setNome(String)
+numComments=15

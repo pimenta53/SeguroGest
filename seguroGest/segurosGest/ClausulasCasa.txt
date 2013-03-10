@@ -1,0 +1,48 @@
+sgc001
+Incendio
+Proteção contra incendio
+0.3
+sgc002
+Tempestades
+Proteção contra efeitos provocados por tempestadas
+0.1
+sgc003
+Aluimento de terras
+Proteção contra efeitos provocados por aluimentos de terras
+0.35
+sgc004
+Inundações
+Proteção contra efeitos provocados por inundações
+0.1
+sgc005
+Furto/Roubo
+Proteção contra roubo (inclui dinheiro)
+0.15
+sgc006
+Danos após roubo
+Proteção contra danos Causados ao edificio por furto ou roubo
+0.05
+sgc007
+Actos de vandalismo
+Proteção contra actos de vandalismo
+0.05
+sgc008
+Impacto de veiculos terestres ou de animais
+Proteção contra danos provocados por veiculos e animais
+0.1
+sgc009
+Quebra ou queda de paineis solares
+Proteção contra danos em paineis solares
+0.05
+sgc010
+Danos em canalizações e instalações subterraneas
+Proteção contra estragos em canalizações
+0.05
+sgc011
+Riscos eletricos
+Proteção contra danos no sistema electrico do imovel
+0.12
+sgc012
+Equipamento informatico
+Protecão sobre o equipamento informático da casa
+0.07

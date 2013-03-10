@@ -1,0 +1,36 @@
+sgaop001
+Responsabilidade Civil Capital +
+Garante a cobertura complementar de Responsabilidade Civil, para além do legalmente exigido, quanto à obrigação de contratar.
+0.3
+sgaop002
+Assistência em Viagem
+Com esta cobertura, todos os imprevistos que surjam, durante a viagem, têm uma solução mais fácil!
+0.0
+sgaop003
+Veículo de substituição
+Garante veículo de substituicao em caso de avaria.
+0.15
+sgaop004
+Protecção Jurídica
+Esta cobertura foi criada a pensar nas situações que, decorrentes de um sinistro, possam requerer o apoio de especialistas jurídicos.
+0.2
+sgaop005
+Choque, Colisão e Capotamento
+Para maior protecção, inclua a cobertura Choque, Colisão e Capotamento, no seu Seguro, para garantir a protecção do veículo de eventuais danos.
+0.35
+sgaop006
+Quebra Isolada de Vidros
+Proteja o seu veículo de acontecimentos inesperados, que possam provocar a quebra isolada dos vidros, na sua viatura.
+0.05
+sgaop007
+Incêndio, Raio e Explosão
+Esta cobertura foi criada para todos os clientes, que sabem que este tipo de situações não acontece só aos outros.
+0.15
+sgaop008
+Furto ou Roubo
+O seu veículo é, provavelmente, um dos seus bens mais preciosos, por isso previna-se contra eventuais adversidades.
+0.20
+sgaop009
+Actos de Vandalismo
+Esta cobertura garante a protecção do seu veículo, na eventualidade de este sofrer consequências de actos de vandalismo.
+0.1
